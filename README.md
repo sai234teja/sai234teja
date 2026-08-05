@@ -9,6 +9,7 @@
 
 ### 🚀 About Me
 
+- 🌐 Portfolio: [sai234teja.github.io/Sai-Teja-portfolio](https://sai234teja.github.io/Sai-Teja-portfolio/)
 - 🎓 4th year B.Tech student, exploring the intersection of AI, Quantum Computing, and software development
 - 🔭 Currently working on **HQC-Vision** — a Hybrid Quantum Computing Vision Framework for medical imaging, industrial inspection, and hyperspectral remote sensing
 - 🌱 Learning more about Quantum Machine Learning and Computer Vision
