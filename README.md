@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Teja%20Gunda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20things%20at%20the%20intersection%20of%20AI%2C%20full-stack%2C%20and%20quantum&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Teja%20Gunda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Full‑Stack%20Engineer%20%7C%20Quantum%20Enthusiast&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=600&lines=Final-year+CSE+(AI+%26+ML)+%40+JNTUH;Full-stack+SaaS+builder+%E2%80%94+Next.js+%2B+Supabase;Quantum+computing+%E2%80%94+Grover%27s+%2B+Qiskit;Oracle+OCI+AI+Certified+%E2%80%94+Oct+2027;Grinding+DSA+for+Amazon+SDE+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=600&lines=Final‑year+CSE+(AI+%26+ML)+%40+JNTUH;Full‑stack+SaaS+%E2%80%94+Next.js+%2B+Supabase;Quantum+computing+%E2%80%94+Qiskit+%2B+Grover;OCI+AI+Certified+%E2%80%94+Oct+2027;Grinding+DSA+for+Amazon+SDE+2027)](https://git.io/typing-svg)
 
 <p>
 <a href="https://linkedin.com/in/sai-teja-gunda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,62 +19,59 @@
 
 ## `$ whoami`
 
-```
-📍  Hyderabad, India  |  Final year B.Tech CSE (AI & ML) @ AVN Institute (JNTUH) — graduating 2027
-🔭  Currently building  →  EventSpark (full-stack ticketing SaaS) + VidyaMithra (AI career OS)
-🎯  Next milestone     →  Amazon SDE Internship 2027
-🧠  Deep interests     →  AI/ML · Quantum Computing · Distributed Systems · System Design
-⚡  Stack of choice    →  Next.js · TypeScript · Supabase · Python · Qiskit
-```
+📍 Hyderabad, India | B.Tech CSE (AI & ML) · AVN Institute (JNTUH) · 2027
+🔭 Building → EventSpark (ticketing SaaS) + VidyaMithra (AI career OS)
+🎯 Target → Amazon SDE Internship 2027
+🧠 Interests → AI/ML · Quantum Computing · Distributed Systems · System Design
+⚡ Stack → Next.js · TypeScript · Supabase · Python · Qiskit\
 
-I build things end-to-end — from database schema to deployed UI — and I keep one foot in research (quantum algorithms, hybrid CV pipelines) and one in production (SaaS, payments, auth, APIs). Consistency beats intensity. Late nights, strong coffee.
+
+I build end-to-end products — from database design to production deployment — while keeping a foot in research (quantum algorithms, hybrid CV) and another in scalable SaaS (payments, auth, APIs). Consistency beats intensity. Late nights, strong coffee.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-> The ones that actually ship.
-
-### [EventSpark](https://github.com/sai234teja/eventspark) — Full-Stack Event & Ticketing SaaS
+### [EventSpark](https://github.com/sai234teja/eventspark) — Full‑Stack Event & Ticketing SaaS
 **Next.js 14 · TypeScript · Supabase · Razorpay · Resend · Vercel**
 
-Production-grade event management platform: multi-role auth (organiser/attendee), Razorpay payment integration, transactional email via Resend, real-time seat tracking, and an admin dashboard with wallet system. Deployed on Vercel. Stages 1–5 complete, Stage 6 (admin analytics + wallet) in progress.
+Production-grade platform with multi‑role auth, Razorpay payments, real‑time seat tracking, and a comprehensive admin dashboard. Stages 1–5 complete; Stage 6 (analytics + wallet) in progress.
 
-`#full-stack` `#saas` `#payments` `#supabase` `#typescript`
+`#full-stack` `#saas` `#payments` `#supabase`
 
 ---
 
 ### VidyaMithra — AI Career Operating System
-**Vite · React · TypeScript · TailwindCSS · Supabase · Gemini API**
+**React · TypeScript · TailwindCSS · Supabase · Gemini API**
 
-An AI-driven career platform that generates personalised learning roadmaps, adaptive quizzes, and curated resources for students navigating placement prep. Dark-first glassmorphism UI, 7-phase build roadmap underway.
+AI‑driven career platform generating personalised learning roadmaps, adaptive quizzes, and curated placement resources. Dark‑first glassmorphism UI; 7‑phase build underway.
 
-`#ai` `#gemini-api` `#career-tech` `#supabase`
+`#ai` `#gemini-api` `#career-tech`
 
 ---
 
 ### [HQC-Vision](https://github.com/sai234teja) — Hybrid Quantum–Classical Vision Framework
 **Python · Qiskit · OpenCV · NumPy**
 
-Research-grade framework combining Grover's Search Algorithm with classical computer vision for medical image analysis, industrial defect inspection, and hyperspectral remote sensing. Demonstrates measurable quantum speedup on image search tasks.
+Research framework combining Grover's Search with classical CV for medical imaging, industrial inspection, and remote sensing. Demonstrates measurable quantum speedup.
 
-`#quantum-computing` `#computer-vision` `#qiskit` `#grover`
+`#quantum-computing` `#computer-vision` `#qiskit`
 
 ---
 
 ### AI Product Recommendation System
-**Python · TF-IDF · Cosine Similarity · Pandas**
+**Python · TF‑IDF · Cosine Similarity · Pandas**
 
-Content-based recommendation engine trained on a Myntra-style fashion dataset. Vectorises product metadata, computes similarity scores, and surfaces ranked recommendations — end-to-end from raw CSV to REST-ready inference.
+Content‑based engine on a fashion dataset — vectorises metadata, computes similarity, returns ranked recommendations.
 
-`#nlp` `#recommender-systems` `#ml`
+`#nlp` `#recommender-systems`
 
 ---
 
 ### Fashion Image Classifier — MobileNetV2
 **Python · TensorFlow · Keras · OpenCV**
 
-Transfer-learning pipeline on 44K images across 141 product classes (~83% top-1 accuracy). Fine-tuned MobileNetV2, data augmentation, and class-weight balancing to handle the long tail.
+Transfer‑learning pipeline on 44K images / 141 classes (~83% top‑1 accuracy) with augmentation and class‑weight balancing.
 
 `#computer-vision` `#transfer-learning` `#cnn`
 
@@ -82,7 +79,7 @@ Transfer-learning pipeline on 44K images across 141 product classes (~83% top-1 
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -90,7 +87,7 @@ Transfer-learning pipeline on 44K images across 141 product classes (~83% top-1 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Full-Stack**
+**Full‑Stack & Cloud**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -98,7 +95,7 @@ Transfer-learning pipeline on 44K images across 141 product classes (~83% top-1 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**AI / ML**
+**AI / ML & Quantum**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -111,7 +108,6 @@ Transfer-learning pipeline on 44K images across 141 product classes (~83% top-1 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
@@ -119,7 +115,7 @@ Transfer-learning pipeline on 44K images across 141 product classes (~83% top-1 
 ## 🏅 Certifications
 
 | Credential | Issuer | Valid Until |
-|---|---|---|
+|------------|--------|-------------|
 | OCI AI Foundations Associate (ID: 103022836OCI25AICFA) | Oracle | Oct 2027 |
 | Cloud Infrastructure AI Foundations Associate | Oracle | Oct 2027 |
 | AI Foundations | IBM | — |
@@ -131,7 +127,7 @@ Transfer-learning pipeline on 44K images across 141 product classes (~83% top-1 
 
 **ISRO Hackathon — Team AstroMatrix** · Problem Statement #8
 
-Detected subsurface lunar ice deposits using Chandrayaan-2 DFSAR and OHRC datasets. My role: rover traverse planning, costmap generation, and path optimisation across candidate ice zones.
+Detected subsurface lunar ice deposits using Chandrayaan‑2 DFSAR and OHRC datasets. Contributed rover traverse planning, costmap generation, and path optimisation.
 
 ---
 
@@ -150,31 +146,25 @@ Detected subsurface lunar ice deposits using Chandrayaan-2 DFSAR and OHRC datase
 
 ---
 
-## 📡 What I'm Working On Right Now
+## 📡 Current Focus
 
 ```python
 current = {
-    "building":   ["EventSpark Stage 6 — admin dashboard + wallet system",
-                   "VidyaMithra Phase 1 — design system + Gemini API integration"],
-    "studying":   ["DSA — trees, graphs, DP (daily LeetCode)",
-                   "System design — consistency models, distributed DBs",
-                   "AWS fundamentals"],
-    "target":     "Amazon SDE Internship 2027",
+    "building": [
+        "EventSpark Stage 6 — admin dashboard + wallet system",
+        "VidyaMithra Phase 1 — design system + Gemini API"
+    ],
+    "studying": [
+        "DSA — trees, graphs, DP (daily LeetCode)",
+        "System design — consistency, distributed DBs",
+        "AWS fundamentals"
+    ],
+    "target": "Amazon SDE Internship 2027"
 }
-```
 
----
+💬 Let's Connect
+Always open to collaborating on AI tooling, full‑stack SaaS, or quantum‑classical hybrid projects.
 
-## 💬 Reach Out
+📧 gundasaiteja634@gmail.com · 💼 LinkedIn · 🌐 Portfolio
 
-Open to collaborating on AI tooling, full-stack SaaS, or anything at the edge of quantum + classical ML.
-
-📧 [gundasaiteja634@gmail.com](mailto:gundasaiteja634@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/sai-teja-gunda) · 🌐 [Portfolio](https://sai234teja.github.io/Sai-Teja-portfolio/)
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/></div> ```
