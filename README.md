@@ -139,3 +139,166 @@ hobbies:
   - Building Projects
   - Learning New Technologies
   - Open Source
+
+
+# <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/rocket.gif" width="35"> Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🧠 HQC Vision
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=8B5CF6&center=true&width=250&height=35&lines=Hybrid+Quantum+Framework;Computer+Vision;Medical+Imaging"/>
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+
+</div>
+
+> Hybrid Quantum Computing Vision Framework combining **Computer Vision**, **Quantum Computing**, and **Artificial Intelligence** for medical imaging, industrial inspection, and hyperspectral remote sensing.
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sai234teja/HQC-Vision">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📚 VidyaMithra
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=3B82F6&center=true&width=250&height=35&lines=AI+Learning+Platform;Career+Guidance;Student+Roadmaps"/>
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+
+</div>
+
+> AI-powered learning platform that provides personalized learning roadmaps, quizzes, curated resources, and career guidance for students.
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sai234teja/VidyaMithra">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌐 Portfolio
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=06B6D4&center=true&width=250&height=35&lines=Responsive+Portfolio;Modern+UI;Personal+Website"/>
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+
+</div>
+
+> Responsive personal portfolio showcasing projects, certifications, achievements, technical skills, and contact information.
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://sai234teja.github.io/Sai-Teja-portfolio/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+<a href="https://github.com/sai234teja/Sai-Teja-portfolio">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🤖 Sai's Bot
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=22C55E&center=true&width=250&height=35&lines=Python+Automation;Workflow+Bot;Productivity"/>
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+
+</div>
+
+> Python automation bot developed to simplify repetitive tasks and improve productivity through automation.
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sai234teja/sai-s-bot">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
