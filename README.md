@@ -9,6 +9,7 @@
 <a href="https://sai234teja.github.io/Sai-Teja-portfolio/"><img src="https://img.shields.io/badge/Portfolio-818CF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:gundasaiteja634@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/sai234teja"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://x.com/sai234teja"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sai234teja&label=Profile+Views&color=818CF8&style=flat-square)
@@ -19,12 +20,12 @@
 
 ## `$ whoami`
 
-📍 Hyderabad, India | B.Tech CSE (AI & ML) · AVN Institute (JNTUH) · 2027
+📍 Hyderabad, India · B.Tech CSE (AI & ML) · AVN Institute (JNTUH) · 2027
 🔭 Building → EventSpark (ticketing SaaS) + VidyaMithra (AI career OS)
 🎯 Target → Amazon SDE Internship 2027
 🧠 Interests → AI/ML · Quantum Computing · Distributed Systems · System Design
-⚡ Stack → Next.js · TypeScript · Supabase · Python · Qiskit\
-
+⚡ Stack → Next.js · TypeScript · Supabase · Python · Qiskit
+🌱 Currently learning → System Design · AWS · Advanced DSA
 
 I build end-to-end products — from database design to production deployment — while keeping a foot in research (quantum algorithms, hybrid CV) and another in scalable SaaS (payments, auth, APIs). Consistency beats intensity. Late nights, strong coffee.
 
@@ -103,12 +104,14 @@ Transfer‑learning pipeline on 44K images / 141 classes (~83% top‑1 accuracy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 
-**Tools**
+**Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -123,11 +126,21 @@ Transfer‑learning pipeline on 44K images / 141 classes (~83% top‑1 accuracy)
 
 ---
 
-## 🌌 Hackathons
+## 🌌 Hackathons & Achievements
 
 **ISRO Hackathon — Team AstroMatrix** · Problem Statement #8
 
 Detected subsurface lunar ice deposits using Chandrayaan‑2 DFSAR and OHRC datasets. Contributed rover traverse planning, costmap generation, and path optimisation.
+
+> 💡 *Add more entries here as you compete — Smart India Hackathon, university hackathons, LeetCode contest rankings, Kaggle competitions, etc. A running list signals momentum to recruiters.*
+
+---
+
+## ✍️ Blog & Writing
+
+*(Optional new section)* — If you write about your build process (EventSpark architecture decisions, Grover's algorithm walkthroughs, lessons from shipping VidyaMithra), link posts here. Recruiters and collaborators often read this before your code.
+
+- 📝 *Coming soon — add Hashnode / Dev.to / Medium posts as you publish*
 
 ---
 
@@ -146,6 +159,18 @@ Detected subsurface lunar ice deposits using Chandrayaan‑2 DFSAR and OHRC data
 
 ---
 
+## 🐍 Contribution Snake
+
+*(Optional new addition — requires a small GitHub Action, see note below)*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/sai234teja/sai234teja/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+> Set up via [Platane/snk](https://github.com/Platane/snk) — a scheduled GitHub Action that generates this automatically from your contribution graph.
+
+---
+
 ## 📡 Current Focus
 
 ```python
@@ -161,10 +186,14 @@ current = {
     ],
     "target": "Amazon SDE Internship 2027"
 }
+```
 
-💬 Let's Connect
-Always open to collaborating on AI tooling, full‑stack SaaS, or quantum‑classical hybrid projects.
+---
 
-📧 gundasaiteja634@gmail.com · 💼 LinkedIn · 🌐 Portfolio
+## 💬 Let's Connect
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/></div> ```
+Always open to collaborating on AI tooling, full‑stack SaaS, or quantum‑classical hybrid projects. Also happy to chat about internships, hackathons, or open-source contributions.
+
+📧 gundasaiteja634@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/sai-teja-gunda) · 🌐 [Portfolio](https://sai234teja.github.io/Sai-Teja-portfolio/)
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/></div>
