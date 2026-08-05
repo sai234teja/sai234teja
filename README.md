@@ -1,265 +1,180 @@
 <div align="center">
 
-# 👋 Hi, I'm Sai Teja Gunda
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Teja%20Gunda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20things%20at%20the%20intersection%20of%20AI%2C%20full-stack%2C%20and%20quantum&descAlignY=55&descSize=16"/>
 
-### Final Year B.Tech (AI & ML) Student | AI/ML Engineer | Full Stack Developer | Quantum Computing Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=600&lines=Final-year+CSE+(AI+%26+ML)+%40+JNTUH;Full-stack+SaaS+builder+%E2%80%94+Next.js+%2B+Supabase;Quantum+computing+%E2%80%94+Grover%27s+%2B+Qiskit;Oracle+OCI+AI+Certified+%E2%80%94+Oct+2027;Grinding+DSA+for+Amazon+SDE+2027)](https://git.io/typing-svg)
 
 <p>
-I'm passionate about building intelligent applications using Artificial Intelligence, Computer Vision, Quantum Computing, and Full Stack technologies. I enjoy solving real-world problems by combining research ideas with practical software development.
+<a href="https://linkedin.com/in/sai-teja-gunda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://sai234teja.github.io/Sai-Teja-portfolio/"><img src="https://img.shields.io/badge/Portfolio-818CF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:gundasaiteja634@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/sai234teja"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=6C7DFF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Full+Stack+Applications;Exploring+Quantum+Computing;Python+Developer;Always+Learning+Something+New)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-teja-gunda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C7DFF?style=for-the-badge&logo=vercel&logoColor=white)](https://sai234teja.github.io/Sai-Teja-portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundasaiteja634@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sai234teja)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sai234teja&label=Visitors&color=6C7DFF&style=flat-square)
-![Followers](https://img.shields.io/github/followers/sai234teja?style=flat-square)
-![Stars](https://img.shields.io/github/stars/sai234teja?style=flat-square)
-
-<img src="https://raw.githubusercontent.com/sai234teja/sai234teja/output/github-contribution-grid-snake.svg" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=sai234teja&label=Profile+Views&color=818CF8&style=flat-square)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## `$ whoami`
 
-🎓 Final Year B.Tech Student (AI & ML)
+```
+📍  Hyderabad, India  |  Final year B.Tech CSE (AI & ML) @ AVN Institute (JNTUH) — graduating 2027
+🔭  Currently building  →  EventSpark (full-stack ticketing SaaS) + VidyaMithra (AI career OS)
+🎯  Next milestone     →  Amazon SDE Internship 2027
+🧠  Deep interests     →  AI/ML · Quantum Computing · Distributed Systems · System Design
+⚡  Stack of choice    →  Next.js · TypeScript · Supabase · Python · Qiskit
+```
 
-📍 Hyderabad, India
-
-💡 Passionate about AI, Machine Learning, Computer Vision, Quantum Computing, and Full Stack Development.
-
-💻 I enjoy building intelligent systems, experimenting with new technologies, and turning ideas into real-world applications.
-
-🌱 Currently learning
-
-- Advanced Data Structures & Algorithms
-- System Design
-- AWS Cloud
-- Quantum Machine Learning
-- Advanced Computer Vision
-
-💬 Ask me about
-
-- Python
-- Machine Learning
-- OpenCV
-- Qiskit
-- Full Stack Development
+I build things end-to-end — from database schema to deployed UI — and I keep one foot in research (quantum algorithms, hybrid CV pipelines) and one in production (SaaS, payments, auth, APIs). Consistency beats intensity. Late nights, strong coffee.
 
 ---
 
-# 🌟 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| **HQC Vision** | Hybrid Quantum Computing framework integrating Grover's Search, Computer Vision, and AI for medical imaging, industrial inspection, and hyperspectral remote sensing. | Python • Qiskit • OpenCV |
-| **VidyaMithra** | AI-powered student guidance platform providing learning roadmaps, quizzes, curated resources, and personalized recommendations for career growth. | HTML • CSS • JavaScript |
-| **EventSpark** | Smart event management platform that helps students discover, register, and manage technical, cultural, and college events seamlessly. | HTML • CSS • JavaScript |
-| **Portfolio Website** | Responsive personal portfolio showcasing projects, certifications, achievements, technical skills, and resume. | HTML • CSS • JavaScript |
-| **Sai's Bot** | Python automation bot designed to simplify repetitive tasks and improve workflow productivity. | Python |
+> The ones that actually ship.
 
----
+### [EventSpark](https://github.com/sai234teja/eventspark) — Full-Stack Event & Ticketing SaaS
+**Next.js 14 · TypeScript · Supabase · Razorpay · Resend · Vercel**
 
-# 🛠 Tech Stack
+Production-grade event management platform: multi-role auth (organiser/attendee), Razorpay payment integration, transactional email via Resend, real-time seat tracking, and an admin dashboard with wallet system. Deployed on Vercel. Stages 1–5 complete, Stage 6 (admin analytics + wallet) in progress.
 
-## Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+`#full-stack` `#saas` `#payments` `#supabase` `#typescript`
 
 ---
 
-## AI & Machine Learning
+### VidyaMithra — AI Career Operating System
+**Vite · React · TypeScript · TailwindCSS · Supabase · Gemini API**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+An AI-driven career platform that generates personalised learning roadmaps, adaptive quizzes, and curated resources for students navigating placement prep. Dark-first glassmorphism UI, 7-phase build roadmap underway.
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+`#ai` `#gemini-api` `#career-tech` `#supabase`
 
 ---
 
-## Quantum Computing
+### [HQC-Vision](https://github.com/sai234teja) — Hybrid Quantum–Classical Vision Framework
+**Python · Qiskit · OpenCV · NumPy**
 
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit)
+Research-grade framework combining Grover's Search Algorithm with classical computer vision for medical image analysis, industrial defect inspection, and hyperspectral remote sensing. Demonstrates measurable quantum speedup on image search tasks.
 
----
-
-## Web Development
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+`#quantum-computing` `#computer-vision` `#qiskit` `#grover`
 
 ---
 
-## Tools
+### AI Product Recommendation System
+**Python · TF-IDF · Cosine Similarity · Pandas**
 
-Git
+Content-based recommendation engine trained on a Myntra-style fashion dataset. Vectorises product metadata, computes similarity scores, and surfaces ranked recommendations — end-to-end from raw CSV to REST-ready inference.
 
-GitHub
-
-VS Code
-
-Google Colab
-
-Jupyter Notebook
+`#nlp` `#recommender-systems` `#ml`
 
 ---
 
-# 📈 GitHub Analytics
+### Fashion Image Classifier — MobileNetV2
+**Python · TensorFlow · Keras · OpenCV**
 
-<p align="center">
+Transfer-learning pipeline on 44K images across 141 product classes (~83% top-1 accuracy). Fine-tuned MobileNetV2, data augmentation, and class-weight balancing to handle the long tail.
 
-<img src="https://github-readme-stats.vercel.app/api?username=sai234teja&show_icons=true&theme=tokyonight&hide_border=true"/>
+`#computer-vision` `#transfer-learning` `#cnn`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai234teja&layout=compact&theme=tokyonight&hide_border=true"/>
+---
 
-</p>
+## 🛠 Tech Stack
 
-<p align="center">
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Full-Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+| Credential | Issuer | Valid Until |
+|---|---|---|
+| OCI AI Foundations Associate (ID: 103022836OCI25AICFA) | Oracle | Oct 2027 |
+| Cloud Infrastructure AI Foundations Associate | Oracle | Oct 2027 |
+| AI Foundations | IBM | — |
+| Virtual Internship — AI / ML | ServiceNow × AICTE × SmartBridge | — |
+
+---
+
+## 🌌 Hackathons
+
+**ISRO Hackathon — Team AstroMatrix** · Problem Statement #8
+
+Detected subsurface lunar ice deposits using Chandrayaan-2 DFSAR and OHRC datasets. My role: rover traverse planning, costmap generation, and path optimisation across candidate ice zones.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sai234teja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai234teja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=sai234teja&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai234teja&theme=tokyo-night&hide_border=true&area=true"/>
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai234teja&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai234teja&theme=tokyo-night&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 Certifications
+## 📡 What I'm Working On Right Now
 
-🏅 Oracle AI Foundations Associate
-
-🏅 Oracle Cloud Infrastructure AI Foundations Associate
-
-🏅 IBM AI Certifications
-
-🏅 ServiceNow Certifications
-
-🏅 AICTE Virtual Internship Programs
-
----
-
-# 🎯 2026 Learning Roadmap
-
-- ✅ Master Data Structures & Algorithms
-
-- 🔄 Advanced Python
-
-- 🔄 System Design
-
-- 🔄 AWS Cloud
-
-- 🔄 Docker
-
-- 🔄 Kubernetes
-
-- 🔄 Advanced Machine Learning
-
-- 🔄 Computer Vision
-
-- 🔄 Quantum Machine Learning
-
-- 🔄 Open Source Contributions
+```python
+current = {
+    "building":   ["EventSpark Stage 6 — admin dashboard + wallet system",
+                   "VidyaMithra Phase 1 — design system + Gemini API integration"],
+    "studying":   ["DSA — trees, graphs, DP (daily LeetCode)",
+                   "System design — consistency models, distributed DBs",
+                   "AWS fundamentals"],
+    "target":     "Amazon SDE Internship 2027",
+}
+```
 
 ---
 
-# 🚀 Current Focus
+## 💬 Reach Out
 
-✔ Solving DSA Problems Daily
+Open to collaborating on AI tooling, full-stack SaaS, or anything at the edge of quantum + classical ML.
 
-✔ Preparing for Amazon SDE Interviews
-
-✔ Building AI Projects
-
-✔ Learning AWS
-
-✔ Exploring Quantum Machine Learning
-
-✔ Contributing to Open Source
-
----
-
-# 🌱 Open Source Goals
-
-- Publish production-ready open-source projects
-
-- Contribute to beginner-friendly repositories
-
-- Participate in Hacktoberfest
-
-- Improve documentation and developer experience
-
-- Build tools that help students and developers
-
----
-
-# ⚡ Fun Facts
-
-☕ Coffee + Music = Coding Mode
-
-🌙 Most productive during late-night coding sessions
-
-🚀 I believe consistency beats intensity
-
-💡 I enjoy learning by building real projects
-
----
-
-# 💬 Favorite Quote
-
-> "Programs must be written for people to read, and only incidentally for machines to execute."
->
-> **— Harold Abelson**
-
----
-
-# 📫 Let's Connect
-
-📧 **Email**
-
-gundasaiteja634@gmail.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/sai-teja-gunda
-
-🌐 **Portfolio**
-
-https://sai234teja.github.io/Sai-Teja-portfolio/
-
-⭐ I'm always open to collaborating on AI, Machine Learning, Full Stack Development, and Open Source projects.
+📧 [gundasaiteja634@gmail.com](mailto:gundasaiteja634@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/sai-teja-gunda) · 🌐 [Portfolio](https://sai234teja.github.io/Sai-Teja-portfolio/)
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Keep Learning • Keep Building • Keep Growing"* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
