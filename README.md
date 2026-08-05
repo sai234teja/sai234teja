@@ -10,6 +10,8 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-6C7DFF?style=for-the-badge&logo=vercel&logoColor=white)](https://sai234teja.github.io/Sai-Teja-portfolio/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sai234teja)
 
+<img src="https://raw.githubusercontent.com/sai234teja/sai234teja/output/github-contribution-grid-snake.svg" width="100%"/>
+
 </div>
 
 ---
