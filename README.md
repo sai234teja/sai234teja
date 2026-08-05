@@ -47,7 +47,7 @@ Built for medical imaging, industrial inspection, and hyperspectral remote sensi
 ### 🔷 [VidyaMithra](https://github.com/sai234teja/VidyaMithra)
 **Web Platform**
 
-*(add a one-line description of what this does when you get a chance)*
+*(add a one-line description of what this does)*
 
 **Tech:** JavaScript
 ![Repo](https://img.shields.io/badge/Repository-View-181717?style=flat-square&logo=github)
@@ -127,6 +127,8 @@ A responsive portfolio showcasing my projects, skills, and certifications — li
 ---
 
 ## 🎯 Learning Roadmap
+
+
 
 ## 🌱 Open Source Goals
 
