@@ -1,14 +1,23 @@
 <div align="center">
 
-# Hi, I'm Sai Teja 👋
-### Final Year B.Tech Student | AI/ML · Quantum Computing · Full Stack
+# 👋 Hi, I'm Sai Teja Gunda
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=6C7DFF&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+Quantum+Computing;Exploring+AI%2FML+%2B+Computer+Vision;Turning+Ideas+Into+Working+Prototypes)](https://git.io/typing-svg)
+### Final Year B.Tech (AI & ML) Student | AI/ML Engineer | Full Stack Developer | Quantum Computing Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-teja-gunda)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundasaiteja634@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6C7DFF?style=for-the-badge&logo=vercel&logoColor=white)](https://sai234teja.github.io/Sai-Teja-portfolio/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sai234teja)
+<p>
+I'm passionate about building intelligent applications using Artificial Intelligence, Computer Vision, Quantum Computing, and Full Stack technologies. I enjoy solving real-world problems by combining research ideas with practical software development.
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=6C7DFF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Full+Stack+Applications;Exploring+Quantum+Computing;Python+Developer;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-teja-gunda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C7DFF?style=for-the-badge&logo=vercel&logoColor=white)](https://sai234teja.github.io/Sai-Teja-portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundasaiteja634@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sai234teja)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sai234teja&label=Visitors&color=6C7DFF&style=flat-square)
+![Followers](https://img.shields.io/github/followers/sai234teja?style=flat-square)
+![Stars](https://img.shields.io/github/stars/sai234teja?style=flat-square)
 
 <img src="https://raw.githubusercontent.com/sai234teja/sai234teja/output/github-contribution-grid-snake.svg" width="100%"/>
 
@@ -16,146 +25,241 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a final-year B.Tech student who likes building things at the edge of what I've already learned. My work spans:
+🎓 Final Year B.Tech Student (AI & ML)
 
-- 🤖 **AI/ML & Computer Vision** — models that see and understand
-- ⚛️ **Quantum Computing** — applying quantum algorithms to real-world vision problems
-- 🌐 **Full Stack Development** — shipping complete, usable web apps
-- 💬 Ask me about Python, Qiskit, or Computer Vision
+📍 Hyderabad, India
 
-**Currently exploring:** Quantum Machine Learning · Advanced Computer Vision · Cloud Deployment
+💡 Passionate about AI, Machine Learning, Computer Vision, Quantum Computing, and Full Stack Development.
 
----
+💻 I enjoy building intelligent systems, experimenting with new technologies, and turning ideas into real-world applications.
 
-## 🌟 Featured Projects
+🌱 Currently learning
 
-<table>
-<tr>
-<td width="50%">
+- Advanced Data Structures & Algorithms
+- System Design
+- AWS Cloud
+- Quantum Machine Learning
+- Advanced Computer Vision
 
-### 🔷 [HQC-Vision](https://github.com/sai234teja/HQC-Vision)
-**Hybrid Quantum Computing Vision Framework**
+💬 Ask me about
 
-Built for medical imaging, industrial inspection, and hyperspectral remote sensing using Grover's Algorithm, Qiskit, and Computer Vision.
-
-**Tech:** Python · Qiskit · OpenCV
-![Repo](https://img.shields.io/badge/Repository-View-181717?style=flat-square&logo=github)
-
-</td>
-<td width="50%">
-
-### 🔷 [VidyaMithra](https://github.com/sai234teja/VidyaMithra)
-**Web Platform**
-
-*(add a one-line description of what this does)*
-
-**Tech:** JavaScript
-![Repo](https://img.shields.io/badge/Repository-View-181717?style=flat-square&logo=github)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔷 [Sai-Teja-portfolio](https://github.com/sai234teja/Sai-Teja-portfolio)
-**Personal Portfolio Website**
-
-A responsive portfolio showcasing my projects, skills, and certifications — live and deployed.
-
-**Tech:** HTML · CSS · JavaScript
-[![Live](https://img.shields.io/badge/Live-Visit_Site-6C7DFF?style=flat-square&logo=vercel)](https://sai234teja.github.io/Sai-Teja-portfolio/)
-
-</td>
-<td width="50%">
-
-### 🔷 [sai-s-bot](https://github.com/sai234teja/sai-s-bot)
-**Python Bot**
-
-*(add a one-line description here)*
-
-**Tech:** Python
-![Repo](https://img.shields.io/badge/Repository-View-181717?style=flat-square&logo=github)
-
-</td>
-</tr>
-</table>
+- Python
+- Machine Learning
+- OpenCV
+- Qiskit
+- Full Stack Development
 
 ---
 
-## 🛠️ Tech Stack
+# 🌟 Featured Projects
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Quantum & ML**
-![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Web**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+| Project | Description | Tech |
+|----------|-------------|------|
+| **HQC Vision** | Hybrid Quantum Computing framework integrating Grover's Search, Computer Vision, and AI for medical imaging, industrial inspection, and hyperspectral remote sensing. | Python • Qiskit • OpenCV |
+| **VidyaMithra** | AI-powered student guidance platform providing learning roadmaps, quizzes, curated resources, and personalized recommendations for career growth. | HTML • CSS • JavaScript |
+| **EventSpark** | Smart event management platform that helps students discover, register, and manage technical, cultural, and college events seamlessly. | HTML • CSS • JavaScript |
+| **Portfolio Website** | Responsive personal portfolio showcasing projects, certifications, achievements, technical skills, and resume. | HTML • CSS • JavaScript |
+| **Sai's Bot** | Python automation bot designed to simplify repetitive tasks and improve workflow productivity. | Python |
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠 Tech Stack
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+
+---
+
+## AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+---
+
+## Quantum Computing
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit)
+
+---
+
+## Web Development
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+
+---
+
+## Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Google Colab
+
+Jupyter Notebook
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai234teja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai234teja&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sai234teja&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai234teja&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sai234teja&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=sai234teja&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai234teja&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai234teja&theme=tokyonight"/>
+
 </p>
 
-### 🏆 Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sai234teja&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai234teja&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🎯 Learning Roadmap
+# 🏆 Certifications
 
+🏅 Oracle AI Foundations Associate
 
+🏅 Oracle Cloud Infrastructure AI Foundations Associate
 
-## 🌱 Open Source Goals
+🏅 IBM AI Certifications
 
-- Publish at least one well-documented open-source project
-- Contribute meaningful PRs to active repositories
-- Build in public and keep this profile updated as I learn
+🏅 ServiceNow Certifications
 
-## ⚡ Fun Facts
+🏅 AICTE Virtual Internship Programs
 
-- I like building things that sound harder than they actually are 😄
-- Most focused when I'm deep in a problem past midnight
-- Believe in shipping something small and working over planning something big and stuck
+---
 
-## 💬 Developer Quote
+# 🎯 2026 Learning Roadmap
 
-> "First, solve the problem. Then, write the code." — John Johnson
+- ✅ Master Data Structures & Algorithms
+
+- 🔄 Advanced Python
+
+- 🔄 System Design
+
+- 🔄 AWS Cloud
+
+- 🔄 Docker
+
+- 🔄 Kubernetes
+
+- 🔄 Advanced Machine Learning
+
+- 🔄 Computer Vision
+
+- 🔄 Quantum Machine Learning
+
+- 🔄 Open Source Contributions
+
+---
+
+# 🚀 Current Focus
+
+✔ Solving DSA Problems Daily
+
+✔ Preparing for Amazon SDE Interviews
+
+✔ Building AI Projects
+
+✔ Learning AWS
+
+✔ Exploring Quantum Machine Learning
+
+✔ Contributing to Open Source
+
+---
+
+# 🌱 Open Source Goals
+
+- Publish production-ready open-source projects
+
+- Contribute to beginner-friendly repositories
+
+- Participate in Hacktoberfest
+
+- Improve documentation and developer experience
+
+- Build tools that help students and developers
+
+---
+
+# ⚡ Fun Facts
+
+☕ Coffee + Music = Coding Mode
+
+🌙 Most productive during late-night coding sessions
+
+🚀 I believe consistency beats intensity
+
+💡 I enjoy learning by building real projects
+
+---
+
+# 💬 Favorite Quote
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."
+>
+> **— Harold Abelson**
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email**
+
+gundasaiteja634@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/sai-teja-gunda
+
+🌐 **Portfolio**
+
+https://sai234teja.github.io/Sai-Teja-portfolio/
+
+⭐ I'm always open to collaborating on AI, Machine Learning, Full Stack Development, and Open Source projects.
 
 ---
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sai234teja&label=Profile%20Views&color=6C7DFF&style=flat-square)](https://github.com/sai234teja)
-[![Followers](https://img.shields.io/github/followers/sai234teja?label=Followers&style=flat-square&color=6C7DFF)](https://github.com/sai234teja?tab=followers)
-[![Stars](https://img.shields.io/github/stars/sai234teja?label=Stars&style=flat-square&color=6C7DFF)](https://github.com/sai234teja?tab=repositories)
+### ⭐ Thanks for visiting my profile!
 
-**Thanks for stopping by — let's build something!**
+*"Keep Learning • Keep Building • Keep Growing"* 🚀
 
 </div>
