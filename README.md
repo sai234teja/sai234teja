@@ -49,3 +49,93 @@
 </div>
 
 ---
+
+# <img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="35"> About Me
+
+<table>
+<tr>
+
+<td width="42%" align="center">
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAd/programmer.gif" width="100%" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Available%20for-Internships-success?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-blueviolet?style=for-the-badge"/>
+
+</td>
+
+<td width="58%">
+
+## 👋 Hello!
+
+I'm **Sai Teja Gunda**, a Final-Year B.Tech student specializing in **Artificial Intelligence & Machine Learning**.
+
+I enjoy transforming ideas into practical software by combining **AI/ML, Computer Vision, Quantum Computing, Cloud, and Full Stack Development**.
+
+My goal is to build intelligent applications that solve real-world problems while continuously improving my software engineering skills.
+
+---
+
+### 🚀 Quick Snapshot
+
+🎓 **Degree:** B.Tech – CSE (AI & ML)
+
+📍 **Location:** Hyderabad, India
+
+💼 **Looking For:** Software Engineering & AI/ML Internships
+
+🌱 **Currently Learning:** AWS • System Design • Quantum Machine Learning
+
+💬 **Ask Me About:** Python • OpenCV • Qiskit • JavaScript
+
+⚡ **Fun Fact:** I enjoy debugging quantum circuits and frontend CSS on the same day 😄
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# <img src="https://media.tenor.com/f3ACnTj0u7kAAAAi/laptop.gif" width="35"> Developer Profile
+
+```yaml
+name: Sai Teja Gunda
+
+role: AI & ML Engineer
+
+education: Final Year B.Tech (CSE - AI & ML)
+
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Quantum Computing
+  - Full Stack Development
+
+currently_building:
+  - HQC Vision
+  - VidyaMithra
+  - Portfolio v2
+
+currently_learning:
+  - AWS Cloud
+  - System Design
+  - Quantum Machine Learning
+  - Advanced DSA
+
+languages:
+  - Python
+  - JavaScript
+  - Java
+  - SQL
+
+hobbies:
+  - Building Projects
+  - Learning New Technologies
+  - Open Source
