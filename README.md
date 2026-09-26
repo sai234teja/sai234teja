@@ -1,60 +1,74 @@
 <div align="center">
 
-<!-- ========================= HERO ========================= -->
+<!-- ========================================================= -->
+<!-- HERO -->
+<!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,25:111827,50:312e81,75:4f46e5,100:818cf8&text=Sai%20Teja%20Gunda&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=AI%20%7C%20FULL-STACK%20%7C%20QUANTUM%20COMPUTING&descAlignY=56&descSize=18&descColor=e0e7ff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:111827,50:312e81,75:4f46e5,100:818cf8&text=Sai%20Teja%20Gunda&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=AI%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20QUANTUM%20COMPUTING&descAlignY=56&descSize=18&descColor=e0e7ff&animation=fadeIn"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1100&color=818CF8&center=true&vCenter=true&width=780&lines=Final-Year+CSE+(AI+%26+ML)+%40+AVN+Institute+(JNTUH);Building+AI-Powered+Full-Stack+Products;Exploring+Quantum+Computing+with+Qiskit;Learning+AWS+%7C+System+Design+%7C+DSA;Turning+Ideas+Into+Deployed+Products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1100&color=818CF8&center=true&vCenter=true&width=820&lines=Final-Year+CSE+(AI+%26+ML)+%40+AVN+Institute+(JNTUH);Building+AI-Powered+Full-Stack+Products;Exploring+Quantum+Computing+with+Qiskit;Learning+AWS+%7C+System+Design+%7C+DSA;Turning+Ideas+Into+Deployed+Products" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<!-- ========================= SOCIAL LINKS ========================= -->
+<!-- ========================================================= -->
+<!-- SOCIAL LINKS -->
+<!-- ========================================================= -->
 
 <a href="https://linkedin.com/in/sai-teja-gunda">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://sai234teja.github.io/Sai-Teja-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:gundasaiteja634@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/sai234teja">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- ========================= PROFILE STATS ========================= -->
+<!-- ========================================================= -->
+<!-- PROFILE METRICS -->
+<!-- ========================================================= -->
 
 <img src="https://komarev.com/ghpvc/?username=sai234teja&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+
 &nbsp;
+
 <img src="https://img.shields.io/github/followers/sai234teja?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
+
 &nbsp;
+
 <img src="https://img.shields.io/github/stars/sai234teja?style=for-the-badge&color=6366F1&label=STARS"/>
 
 <br/><br/>
 
-<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+<!-- ========================================================= -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ========================================================= -->
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/sai234teja/sai234teja/output/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/sai234teja/sai234teja/output/github-contribution-grid-snake.svg"
   />
+
   <img
-    alt="GitHub contribution snake"
+    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/sai234teja/sai234teja/output/github-contribution-grid-snake.svg"
     width="100%"
   />
@@ -64,7 +78,9 @@
 
 ---
 
-<!-- ========================= ABOUT ME ========================= -->
+<!-- ========================================================= -->
+<!-- ABOUT ME -->
+<!-- ========================================================= -->
 
 ## 👨‍💻 About Me
 
@@ -81,19 +97,21 @@ I enjoy building systems at the intersection of:
 
 **Artificial Intelligence × Software Engineering × Cloud × Emerging Computing**
 
-My development approach:
+My development philosophy:
 
-**Learn → Build → Test → Deploy → Improve**
+> **Learn → Build → Test → Deploy → Improve**
 
-Currently exploring:
+I'm particularly interested in building practical software rather than only experimenting with isolated technologies.
+
+### 🎯 Current Interests
 
 - 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full-Stack Development
+- 🌐 Full-Stack Engineering
 - ☁️ AWS & Cloud Engineering
 - 🧠 Data Structures & Algorithms
 - 🏗️ System Design
-- ⚛️ Quantum Computing
 - 🔬 Computer Vision
+- ⚛️ Quantum Computing
 
 </td>
 
@@ -116,16 +134,18 @@ Currently exploring:
 
 ---
 
-<!-- ========================= QUICK SNAPSHOT ========================= -->
+<!-- ========================================================= -->
+<!-- QUICK SNAPSHOT -->
+<!-- ========================================================= -->
 
-## ⚡ Quick Snapshot
+# ⚡ Quick Snapshot
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### 🎓
 
@@ -137,38 +157,50 @@ JNTUH
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### 🤖
 
-**Primary Focus**
+**Primary**
 
-AI Engineering  
-Full-Stack  
-Computer Vision
+AI / ML  
+Computer Vision  
+GenAI
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
+
+### 🌐
+
+**Engineering**
+
+React  
+Next.js  
+Node.js
+
+</td>
+
+<td align="center" width="20%">
 
 ### ☁️
 
-**Exploring**
+**Cloud**
 
 AWS  
-System Design  
+Linux  
 DevOps
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### ⚛️
 
 **Research**
 
-Quantum Computing  
 Qiskit  
+Quantum Algorithms  
 Hybrid CV
 
 </td>
@@ -180,9 +212,29 @@ Hybrid CV
 
 ---
 
-<!-- ========================= TECH STACK ========================= -->
+<!-- ========================================================= -->
+<!-- TECHNICAL SKILLS -->
+<!-- ========================================================= -->
 
-# 🛠️ Tech Stack
+# 🧠 Technical Skills
+
+<div align="center">
+
+| Area | Technologies |
+|:---|:---|
+| 💻 **Languages** | Python · Java · JavaScript · TypeScript · C · SQL |
+| 🌐 **Frontend** | HTML · CSS · React · Next.js · Tailwind CSS |
+| ⚙️ **Backend** | Node.js · Express · REST APIs |
+| 🗄️ **Database** | MySQL · PostgreSQL · Supabase · Prisma |
+| 🤖 **AI / ML** | Machine Learning · Computer Vision · TensorFlow · Scikit-learn |
+| 📊 **Data** | NumPy · Pandas · Matplotlib |
+| ☁️ **Cloud** | AWS · Vercel |
+| ⚛️ **Quantum** | Qiskit · Quantum Algorithms · Hybrid Computing |
+| 🛠️ **Tools** | Git · GitHub · VS Code · Linux · Docker |
+
+</div>
+
+<br/>
 
 ### 💻 Programming
 
@@ -192,9 +244,7 @@ Hybrid CV
 
 </div>
 
-<br/>
-
-### 🌐 Full-Stack Development
+### 🌐 Full-Stack
 
 <div align="center">
 
@@ -202,9 +252,7 @@ Hybrid CV
 
 </div>
 
-<br/>
-
-### 🤖 AI / ML / Computer Vision
+### 🤖 AI / ML
 
 <div align="center">
 
@@ -212,9 +260,7 @@ Hybrid CV
 
 </div>
 
-<br/>
-
-### ☁️ Cloud / DevOps / Tools
+### ☁️ Cloud & Tools
 
 <div align="center">
 
@@ -222,44 +268,111 @@ Hybrid CV
 
 </div>
 
-<br/>
-
 ### ⚛️ Quantum Computing
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Quantum%20Algorithms-312E81?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Hybrid%20Quantum--Classical-4F46E5?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ========================= FEATURED PROJECTS ========================= -->
+<!-- ========================================================= -->
+<!-- CURRENTLY BUILDING -->
+<!-- ========================================================= -->
 
-# 🚀 Featured Projects
+# 🚧 Currently Building
+
+<div align="center">
 
 <table>
 <tr>
 
-<!-- EVENTSPARK -->
+<td width="33%" align="center">
 
-<td width="50%" valign="top">
+### 🏥 Hospital ERP
+
+Building a modular hospital management platform covering:
+
+`OPD` `IPD` `Beds` `Nursing` `Billing`
+
+`Pharmacy` `Laboratory` `RBAC`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI Applications
+
+Building practical AI/ML systems focused on:
+
+`Computer Vision`
+
+`Generative AI`
+
+`Machine Learning`
+
+`Intelligent Workflows`
+
+</td>
+
+<td width="33%" align="center">
+
+### ☁️ Cloud Engineering
+
+Improving production engineering skills through:
+
+`AWS`
+
+`Linux`
+
+`DevOps`
+
+`Deployment`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!-- FEATURED PROJECTS -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+## ⚡ EventSpark
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:4f46e5&height=65&text=%E2%9A%A1%20EVENTSPARK&fontSize=23&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:4f46e5&height=65&text=%E2%9A%A1%20EVENTSPARK&fontSize=24&fontColor=ffffff"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=for-the-badge"/>
 
 </div>
 
 ### Full-Stack Event & Ticketing SaaS
 
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square"/>
+**Problem**
 
-A production-oriented event platform designed for event registration, ticketing and payment workflows.
+College events can require separate systems for registration, payments, ticket management and attendee tracking.
 
-**Features**
+**Solution**
+
+Built a full-stack event platform combining event registration, ticketing, payments and seat tracking into one workflow.
+
+### Key Features
 
 - 🔐 Multi-role authentication
 - 🎟️ Event & ticket management
@@ -268,94 +381,141 @@ A production-oriented event platform designed for event registration, ticketing 
 - 📧 Transactional emails
 - 🗄️ Supabase backend
 
-**Stack**
+### Tech Stack
 
-`Next.js` `TypeScript` `Supabase` `Tailwind`
-
-<br/>
+`Next.js` `TypeScript` `Supabase` `Tailwind CSS` `Razorpay`
 
 <div align="center">
 
 <a href="https://github.com/sai234teja/eventspark">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-</td>
+---
 
-<!-- VIDYAMITHRA -->
-
-<td width="50%" valign="top">
+## 🏥 Hospital ERP
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:7c3aed&height=65&text=%F0%9F%A7%A0%20VIDYAMITHRA&fontSize=23&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:0f766e&height=65&text=%F0%9F%8F%A5%20HOSPITAL%20ERP&fontSize=24&fontColor=ffffff"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/TYPE-FULL--STACK%20SYSTEM-0F766E?style=for-the-badge"/>
+
+</div>
+
+### Modular Hospital Management Platform
+
+**Problem**
+
+Hospital workflows involve interconnected departments, patient records, appointments, admissions, beds, billing and clinical operations.
+
+**Solution**
+
+Developing a role-based hospital ERP with modular OPD/IPD workflows and centralized data management.
+
+### Core Modules
+
+- 🧑‍⚕️ Doctor workflows
+- 👩‍⚕️ Nurse station
+- 🧑‍💼 Admin & OP staff
+- 🏥 OPD management
+- 🛏️ IPD & bed management
+- 💊 Pharmacy
+- 🧪 Laboratory
+- 💳 Billing
+- 📝 Audit logging
+- 🔐 JWT authentication
+- 🛡️ Role-based access control
+
+### Engineering Highlights
+
+- Prisma ORM
+- Transaction-aware database operations
+- RBAC enforcement
+- Audit logging
+- Bed reservation concurrency protection
+- Admission / transfer / discharge workflows
+
+### Tech Stack
+
+`React` `Node.js` `Express` `Prisma` `JWT` `SQLite/PostgreSQL`
+
+---
+
+## 🧠 VidyaMithra
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:7c3aed&height=65&text=%F0%9F%A7%A0%20VIDYAMITHRA&fontSize=24&fontColor=ffffff"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FF6D00?style=for-the-badge"/>
 
 </div>
 
 ### AI Career Learning Platform
 
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FF6D00?style=flat-square"/>
+**Problem**
 
-An AI-powered learning platform focused on personalized learning and placement preparation.
+Students often need to search across multiple resources for roadmaps, learning material, quizzes and placement preparation.
 
-**Features**
+**Solution**
+
+Building an AI-assisted learning platform that organizes career preparation into structured learning paths.
+
+### Features
 
 - 🗺️ Personalized learning roadmaps
 - 🧩 Adaptive quizzes
 - 📚 Curated resources
 - 📊 Performance tracking
-- 🤖 AI-assisted learning
+- 🤖 AI-assisted learning workflows
 
-**Stack**
+### Tech Stack
 
-`React` `Gemini API` `Tailwind`
-
-<br/>
+`React` `Gemini API` `Tailwind CSS`
 
 <div align="center">
 
 <a href="https://github.com/sai234teja/VidyaMithra">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-</td>
+---
 
-</tr>
-
-<tr>
-
-<!-- HQC -->
-
-<td width="50%" valign="top">
+## 🔬 HQC-Vision
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:6929C4&height=65&text=%F0%9F%94%AC%20HQC--VISION&fontSize=23&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:6929C4&height=65&text=%F0%9F%94%AC%20HQC--VISION&fontSize=24&fontColor=ffffff"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/TYPE-RESEARCH-6929C4?style=for-the-badge"/>
 
 </div>
 
-### Hybrid Quantum-Classical Vision
+### Hybrid Quantum-Classical Computer Vision
 
-<img src="https://img.shields.io/badge/TYPE-RESEARCH-6929C4?style=flat-square"/>
+Exploring the combination of classical computer vision techniques with quantum algorithms.
 
-Research-oriented project exploring the combination of classical computer vision with quantum algorithms.
-
-**Explored Domains**
+### Application Areas
 
 - 🧬 Medical imaging
-- 🛰️ Remote sensing
+- 🛰️ Hyperspectral / remote sensing
 - 🏭 Industrial inspection
 - 🔎 Image search
 
-**Stack**
+### Technologies
 
 `Python` `Qiskit` `OpenCV` `Google Colab`
-
-<br/>
 
 <div align="center">
 
@@ -365,36 +525,35 @@ Research-oriented project exploring the combination of classical computer vision
 
 </div>
 
-</td>
+---
 
-<!-- FASHION -->
-
-<td width="50%" valign="top">
+## 👗 Fashion Classifier
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:ea580c&height=65&text=%F0%9F%91%97%20FASHION%20CLASSIFIER&fontSize=21&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:ea580c&height=65&text=%F0%9F%91%97%20FASHION%20CLASSIFIER&fontSize=23&fontColor=ffffff"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ACCURACY-%7E83%25-EA580C?style=for-the-badge"/>
 
 </div>
 
-### MobileNetV2 Fashion Classifier
+### MobileNetV2 Image Classification Pipeline
 
-<img src="https://img.shields.io/badge/ACCURACY-%7E83%25-EA580C?style=flat-square"/>
+A deep-learning image classification pipeline using transfer learning and data augmentation.
 
-Deep-learning image classification pipeline using transfer learning.
-
-**Highlights**
+### Highlights
 
 - 📸 44K+ images
 - 🧠 MobileNetV2
 - 🔄 Data augmentation
 - 📊 Multi-class classification
+- 🎯 ~83% reported top-1 accuracy
 
-**Stack**
+### Technologies
 
 `Python` `TensorFlow` `Keras`
-
-<br/>
 
 <div align="center">
 
@@ -404,14 +563,97 @@ Deep-learning image classification pipeline using transfer learning.
 
 </div>
 
+---
+
+<!-- ========================================================= -->
+<!-- HOW I BUILD -->
+<!-- ========================================================= -->
+
+# 🏗️ How I Build
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 01
+
+## 🎨
+
+**Frontend**
+
+React  
+Next.js  
+Tailwind
+
+</td>
+
+<td align="center" width="25%">
+
+### 02
+
+## ⚙️
+
+**Backend**
+
+Node.js  
+Express  
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 03
+
+## 🗄️
+
+**Data**
+
+SQL  
+Prisma  
+Supabase
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+## ☁️
+
+**Deploy**
+
+AWS  
+Vercel  
+Linux
+
 </td>
 
 </tr>
 </table>
 
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BUILD-USER%20EXPERIENCE-6366F1?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DESIGN-SYSTEM%20ARCHITECTURE-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SHIP-PRODUCTION-0EA5E9?style=for-the-badge"/>
+
+</div>
+
 ---
 
-<!-- ========================= ENGINEERING ROADMAP ========================= -->
+<!-- ========================================================= -->
+<!-- ENGINEERING ROADMAP -->
+<!-- ========================================================= -->
 
 # 🧭 Engineering Roadmap
 
@@ -426,13 +668,13 @@ Deep-learning image classification pipeline using transfer learning.
 
 ### 🤖 AI
 
-`Machine Learning`
+Machine Learning
 
-`Computer Vision`
+Computer Vision
 
-`Generative AI`
+Generative AI
 
-`NLP`
+NLP
 
 </td>
 
@@ -442,13 +684,13 @@ Deep-learning image classification pipeline using transfer learning.
 
 ### 💻 Engineering
 
-`DSA`
+DSA
 
-`System Design`
+System Design
 
-`Full-Stack`
+Full-Stack
 
-`APIs`
+APIs
 
 </td>
 
@@ -458,13 +700,13 @@ Deep-learning image classification pipeline using transfer learning.
 
 ### ☁️ Cloud
 
-`AWS`
+AWS
 
-`Linux`
+Linux
 
-`DevOps`
+DevOps
 
-`Deployment`
+Infrastructure
 
 </td>
 
@@ -474,13 +716,13 @@ Deep-learning image classification pipeline using transfer learning.
 
 ### ⚛️ Quantum
 
-`Qiskit`
+Qiskit
 
-`Algorithms`
+Algorithms
 
-`Quantum ML`
+Quantum ML
 
-`Hybrid Systems`
+Hybrid Systems
 
 </td>
 
@@ -495,73 +737,9 @@ Deep-learning image classification pipeline using transfer learning.
 
 ---
 
-<!-- ========================= ENGINEERING INTERESTS ========================= -->
-
-# 🧩 Engineering Interests
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI Engineering**
-
-Machine Learning  
-Computer Vision  
-GenAI
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-**Full-Stack**
-
-React  
-Next.js  
-APIs  
-Databases
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️
-
-**Cloud**
-
-AWS  
-Linux  
-DevOps  
-Infrastructure
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚛️
-
-**Quantum**
-
-Qiskit  
-Algorithms  
-Quantum ML
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ========================= CERTIFICATIONS ========================= -->
+<!-- ========================================================= -->
+<!-- CERTIFICATIONS -->
+<!-- ========================================================= -->
 
 # 🏆 Certifications & Hackathons
 
@@ -578,7 +756,9 @@ Quantum ML
 
 ---
 
-<!-- ========================= CURRENT FOCUS ========================= -->
+<!-- ========================================================= -->
+<!-- CURRENT FOCUS -->
+<!-- ========================================================= -->
 
 # 🔥 Current Focus
 
@@ -587,63 +767,63 @@ Quantum ML
 <table>
 <tr>
 
-<td align="center">
-
-<img src="https://img.shields.io/badge/01-DSA-6366F1?style=for-the-badge"/>
+<td align="center" width="20%">
 
 ### 🧠
 
-Strengthening  
-problem solving &  
-algorithmic thinking
+**DSA**
+
+Problem solving  
+Algorithms  
+Data structures
 
 </td>
 
-<td align="center">
-
-<img src="https://img.shields.io/badge/02-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<td align="center" width="20%">
 
 ### ☁️
 
+**AWS**
+
 Cloud  
-architecture &  
-deployment
+Infrastructure  
+Deployment
 
 </td>
 
-<td align="center">
-
-<img src="https://img.shields.io/badge/03-SYSTEM%20DESIGN-312E81?style=for-the-badge"/>
+<td align="center" width="20%">
 
 ### 🏗️
 
-Learning how  
-large-scale systems  
-are designed
+**SYSTEM DESIGN**
+
+Architecture  
+Scalability  
+Backend systems
 
 </td>
 
-<td align="center">
-
-<img src="https://img.shields.io/badge/04-AI%20ENGINEERING-7C3AED?style=for-the-badge"/>
+<td align="center" width="20%">
 
 ### 🤖
 
-Building practical  
-AI-powered  
-applications
+**AI**
+
+ML  
+CV  
+AI Engineering
 
 </td>
 
-<td align="center">
-
-<img src="https://img.shields.io/badge/05-QUANTUM-6929C4?style=for-the-badge"/>
+<td align="center" width="20%">
 
 ### ⚛️
 
-Exploring  
-quantum algorithms  
-with Qiskit
+**QUANTUM**
+
+Qiskit  
+Algorithms  
+Quantum ML
 
 </td>
 
@@ -654,7 +834,9 @@ with Qiskit
 
 ---
 
-<!-- ========================= GITHUB ANALYTICS ========================= -->
+<!-- ========================================================= -->
+<!-- GITHUB ANALYTICS -->
+<!-- ========================================================= -->
 
 # 📊 GitHub Analytics
 
@@ -676,7 +858,9 @@ with Qiskit
 
 ---
 
-<!-- ========================= DEVELOPER MINDSET ========================= -->
+<!-- ========================================================= -->
+<!-- DEVELOPER MINDSET -->
+<!-- ========================================================= -->
 
 # 🧪 Developer Mindset
 
@@ -781,7 +965,9 @@ the real world.
 
 ---
 
-<!-- ========================= ASK ME ========================= -->
+<!-- ========================================================= -->
+<!-- ASK ME ABOUT -->
+<!-- ========================================================= -->
 
 # 💬 Ask Me About
 
@@ -790,6 +976,7 @@ the real world.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
@@ -801,11 +988,13 @@ the real world.
 
 ---
 
-<!-- ========================= FUN FACT ========================= -->
+<!-- ========================================================= -->
+<!-- FUN FACT -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
 ### I debug quantum circuits and CSS flexbox on the same day. 😄
 
@@ -813,7 +1002,9 @@ the real world.
 
 ---
 
-<!-- ========================= CONNECT ========================= -->
+<!-- ========================================================= -->
+<!-- CONNECT -->
+<!-- ========================================================= -->
 
 # 🤝 Let's Connect
 
@@ -845,13 +1036,17 @@ I'm open to **interesting projects, technical discussions and collaboration.**
 
 <br/>
 
-<!-- ========================= FOOTER ========================= -->
+<!-- ========================================================= -->
+<!-- FOOTER -->
+<!-- ========================================================= -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,50:4f46e5,100:020617&height=120&section=footer"/>
 
 ### ⭐ Thanks for visiting my profile!
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=sai234teja&style=flat-square&color=6366F1&label=PROFILE+VISITORS"/>
 
