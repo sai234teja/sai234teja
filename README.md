@@ -179,20 +179,15 @@ Grover's Search Algorithm + classical CV for medical imaging, industrial inspect
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/sai234teja">
-    <img src="https://github-readme-stats.vercel.app/api?username=sai234teja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Sai Teja's GitHub Stats" />
-  </a>
-  <a href="https://github.com/sai234teja">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai234teja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/sai234teja">
-    <img src="https://streak-stats.demolab.com/?user=sai234teja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<img src="https://streak-stats.demolab.com/?user=sai234teja&theme=tokyonight&hide_border=true" width="80%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai234teja&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
 
 ---
 
