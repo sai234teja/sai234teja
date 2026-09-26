@@ -20,10 +20,10 @@
 
   <br/><br/>
 
-  <!-- Profile Views & Followers -->
-  <img src="https://komarev.com/ghpvc/?username=sai234teja&style=for-the-badge&color=6366F1"/>
-  <img src="https://img.shields.io/github/followers/sai234teja?style=for-the-badge&color=6366F1"/>
-  <img src="https://img.shields.io/github/stars/sai234teja?style=for-the-badge&color=6366F1"/>
+  <!-- Profile Views & Stats -->
+  <img src="https://komarev.com/ghpvc/?username=sai234teja&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/sai234teja?style=for-the-badge&color=818CF8&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/sai234teja?style=for-the-badge&color=a5b4fc&label=TOTAL+STARS"/>
 
   <br/><br/>
 
@@ -42,28 +42,31 @@
 
 <table>
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAd/programmer.gif" width="100%"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Available%20for-Internships-00C853?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Available_for_Internships-00C853?style=for-the-badge"/>  
+<br/>
+<img src="https://img.shields.io/badge/Open_to-Collaboration-6366F1?style=for-the-badge"/>
 
 </td>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-👋 **Hey there! I'm Sai Teja Gunda**
+### 👋 Hello World!
 
-I'm an Artificial Intelligence & Machine Learning student passionate about building full-stack applications, distributed systems, and hybrid classical-quantum algorithms.
+I'm **Sai Teja Gunda**, a Final-Year B.Tech student specialising in **Artificial Intelligence & Machine Learning** at AVN Institute of Engineering and Technology (JNTUH), graduating 2027.
 
-* 🎓 **Degree:** B.Tech – CSE (AI & ML) @ AVN Institute (JNTUH), Class of 2027
-* 📍 **Location:** Hyderabad, India
-* 🎯 **Goal:** Amazon SDE Internship 2027
-* 🌱 **Focus Area:** AWS Cloud Architecture, Distributed System Design & Advanced DSA
-* 💬 **Ask me about:** Python, Next.js, OpenCV, PyTorch, Qiskit
-* ⚡ **Fun Fact:** I debug quantum phase estimations and CSS flexbox on the exact same day.
+I architect end-to-end products — from database schema to deployed UI — while exploring quantum algorithms and hybrid computer vision pipelines.
+
+- 🎓 **Degree:** B.Tech – CSE (AI & ML) · JNTUH
+- 📍 **Location:** Hyderabad, India
+- 🎯 **Goal:** Amazon SDE Internship 2027
+- 🌱 **Learning:** AWS · System Design · DSA · Quantum ML
+- 💬 **Ask me about:** Python · Next.js · OpenCV · Qiskit
+- ⚡ **Fun fact:** I debug quantum circuits and CSS flexbox on the same day 😄
 
 </td>
 </tr>
@@ -71,47 +74,58 @@ I'm an Artificial Intelligence & Machine Learning student passionate about build
 
 ---
 
-## 🛠 Tech Stack & Tooling
+## 🛠 Tech Stack & Ecosystem
 
-#### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-#### Full-Stack & Cloud Architecture
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+  <b>Full-Stack & Cloud Architecture</b><br/>
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
-#### AI, Machine Learning & Quantum
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p align="center">
+  <b>AI, Machine Learning & Quantum</b><br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ⚡ EventSpark
-`LIVE` · **Full-Stack Event & Ticketing SaaS**
+`🟢 LIVE` · **Full-Stack Ticketing SaaS**
 
-Production-ready ticketing platform built with Next.js 14, Supabase, and Razorpay. Features multi-role auth, real-time seat tracking, and transactional email automation.
+Production-grade platform — multi-role auth (organiser/attendee), Razorpay payment integration, real-time seat tracking, transactional email via Resend.
+
+<br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square)
+
+<br/>
 
 [👉 View Repository](https://github.com/sai234teja/eventspark)
 
@@ -119,13 +133,18 @@ Production-ready ticketing platform built with Next.js 14, Supabase, and Razorpa
 <td width="50%" valign="top">
 
 ### 🧠 VidyaMithra
-`IN DEV` · **AI Career Operating System**
+`🔄 IN DEV` · **AI Career Operating System**
 
-Personalized learning roadmap generator using Gemini API. Delivers adaptive quizzes, dynamic career pathing, and dark-mode glassmorphism visual design.
+AI-driven platform generating personalised learning roadmaps, adaptive quizzes, and curated placement resources. Dark-first glassmorphism UI.
+
+<br/>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+<br/>
 
 [👉 View Repository](https://github.com/sai234teja/VidyaMithra)
 
@@ -135,27 +154,36 @@ Personalized learning roadmap generator using Gemini API. Delivers adaptive quiz
 <td width="50%" valign="top">
 
 ### 🔬 HQC-Vision
-`RESEARCH` · **Hybrid Quantum–Classical Vision Framework**
+`🔬 RESEARCH` · **Hybrid Quantum-Classical Vision**
 
-Integrates Grover's Search Algorithm with classical OpenCV pipelines to optimize search efficiency in complex medical and hyperspectral imagery.
+Grover's Search Algorithm + classical CV for medical imaging, industrial inspection, and hyperspectral remote sensing. Demonstrates measurable quantum speedup.
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+<br/>
 
 [👉 View Repository](https://github.com/sai234teja/HQC-Vision)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Credential Verifier
-`AGENTS` · **7-Agent AI & Blockchain Pipeline**
+### 👗 Fashion Classifier
+`🎯 ~83% ACCURACY` · **MobileNetV2 Pipeline**
 
-Sequential multi-agent verification engine covering OCR, Resume Intelligence, and Fraud Detection, writing validated trust credentials directly to a tamper-proof ledger.
+Fine-tuned MobileNetV2 with data augmentation and class-weight balancing for long-tail distribution on 44K images across 141 product classes.
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-059669?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+<br/>
 
 [👉 View Repository](https://github.com/sai234teja)
 
@@ -167,10 +195,12 @@ Sequential multi-agent verification engine covering OCR, Resume Intelligence, an
 
 ## 🏅 Certifications & Hackathons
 
-* **Oracle Cloud Infrastructure AI Foundations Associate** · *ID: 103022836OCI25AICFA (Valid thru Oct 2027)*
-* **ISRO Hackathon (Team AstroMatrix)** · Subsurface lunar ice detection via Chandrayaan-2 DFSAR datasets; executed path optimization & costmap rover traversal planning.
-* **IBM AI Foundations Certification** · Core concepts in ML engineering and Deep Learning architectures.
-* **ServiceNow AI/ML Virtual Internship** · AICTE & SmartBridge certified.
+| Credential / Event | Issuer / Team | Details |
+|:---|:---|:---|
+| **Oracle OCI AI Foundations Associate** | Oracle | ID: `103022836OCI25AICFA` · Valid Oct 2027 |
+| **ISRO Hackathon** | Team AstroMatrix | Problem Statement #8: Lunar subsurface ice detection & rover path planning |
+| **IBM AI Foundations** | IBM | Core AI concepts and fundamental machine learning architectures |
+| **ServiceNow Virtual Internship** | AICTE × SmartBridge | AI/ML pipeline development and workflow automation |
 
 ---
 
